@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heidman06" alt="heidman06" /></a> </p>
 
-- 🔭 I’m currently working on **Java project games , and PHP sites**
+- 🔭 I’m currently working on **Java projects games , Symfony and React projects**
 
-- 🌱 I’m currently learning **PHP, JavaScript , C++ ,Bayblon.js**
+- 🌱 I’m currently learning **PHP, JavaScript , C++ , Cypress , React**
 
 - 📫 How to reach me **heidman06@gmail.com**
 
