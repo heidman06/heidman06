@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heidman06&theme=" alt="heidman06" /></a> </p>
 
 - 🌱 I’m currently learning **Go, React Native**
-- 💬 Ask me about **PHP , JS , Java , React , Cypress**
+- 💬 Ask me about **PHP , Symfony, JS , Java , Spring, React , Cypress, Docker, Solidity**
 - 📫 How to reach me **mohamedreda.amlah06@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/mohamed-reda-amlah-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
